@@ -6,16 +6,12 @@ these areas to MSc/PhD students working in wind energy.
 
 ## Course information
 
-Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
+* Kursusbasen page: [direct link](https://kurser.dtu.dk/course/46120).
 
 ### Where/when
 
-PiWE 2025 dates, times and locations:
- * Thursdays, **9:00(!!)** to 12:00
- * Physical location: TBD
- * Virtual location: Zoom link on Learn page
+* Read [this file](./AttendanceExpectations.md) for how to attend the course and expectations of you when you attend.
 
-The course is hybrid, meaning that you can attend physically or online as you choose.
 
 ### Tentative course schedule
 
