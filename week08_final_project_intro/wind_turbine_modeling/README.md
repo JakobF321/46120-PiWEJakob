@@ -32,7 +32,7 @@ the rotational speed $\omega$.
 and rotational speed ($\omega$), as function of wind speed ($V_0$), based on 
 interpolation using the provided operational strategy in `IEA_15MW_RWT_Onshore.opt`
 
-7. Compute and plot power curve ($P(V_0)$) and thrust curve ($T(V_0)$) based
+7. Compute and plot power curve, $`P(V_0)`$, and thrust curve, $`T(V_0)`$, based
 on the operational strategy obtained in the previous function.
 
 
